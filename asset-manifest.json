@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82a7cbf1.chunk.css",
+    "main.js": "/static/js/main.c54870ec.chunk.js",
+    "main.js.map": "/static/js/main.c54870ec.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fbe98da3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fbe98da3.js.map",
+    "static/js/2.c92abf84.chunk.js": "/static/js/2.c92abf84.chunk.js",
+    "static/js/2.c92abf84.chunk.js.map": "/static/js/2.c92abf84.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7e97011fbcd4fb602ecaf1abbe561a87.js": "/precache-manifest.7e97011fbcd4fb602ecaf1abbe561a87.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.82a7cbf1.chunk.css.map": "/static/css/main.82a7cbf1.chunk.css.map",
+    "static/media/android-logo.png": "/static/media/android-logo.e760ce49.png",
+    "static/media/apple-logo.png": "/static/media/apple-logo.5303f8d2.png",
+    "static/media/baby.jpg": "/static/media/baby.ea2d0e2e.jpg",
+    "static/media/background.jpg": "/static/media/background.0547f374.jpg",
+    "static/media/bottle2.jpg": "/static/media/bottle2.4924e7b1.jpg",
+    "static/media/ceo_state1.png": "/static/media/ceo_state1.f686265e.png",
+    "static/media/contact_bg.png": "/static/media/contact_bg.18bae035.png",
+    "static/media/handy2.jpg": "/static/media/handy2.043af843.jpg",
+    "static/media/leander.jpg": "/static/media/leander.842e1869.jpg",
+    "static/media/logo-round.png": "/static/media/logo-round.5196f5e5.png",
+    "static/media/maurice.jpg": "/static/media/maurice.7cb0c1d2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbe98da3.js",
+    "static/js/2.c92abf84.chunk.js",
+    "static/css/main.82a7cbf1.chunk.css",
+    "static/js/main.c54870ec.chunk.js"
+  ]
+}
